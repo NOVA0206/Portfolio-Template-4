@@ -34,7 +34,6 @@ You can view these images in the repository to get a quick visual of the templat
    ```bash
    git clone https://github.com/NOVA0206/Portfolio-Template-4.git
    cd Portfolio-Template-4
-````
 
 2. Open `Portfolio4.html` in your browser (double-click or `File -> Open`).
 
